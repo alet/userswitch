@@ -1,6 +1,6 @@
-#UserSwitch
+# UserSwitch
 Switch from any windom manager to GDM login page
-##Installing
+## Installing
 Compile and copy to somewere in path:
 ```sh
 sudo apt install libgdm-dev
